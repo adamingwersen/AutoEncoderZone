@@ -1,0 +1,580 @@
+;zipcode;city
+0;1301;København K
+1;2000;Frederiksberg
+2;2100;København Ø
+3;2200;København N
+4;2300;København S
+5;2400;København NV
+6;2450;København SV
+7;2500;Valby
+8;2600;Glostrup
+9;2605;Brøndby
+10;2610;Rødovre
+11;2625;Vallensbæk
+12;2630;Taastrup
+13;2635;Ishøj
+14;2640;Hedehusene
+15;2650;Hvidovre
+16;2660;Brøndby Strand
+17;2665;Vallensbæk Strand
+18;2670;Greve
+19;2670;Greve Strand
+20;2680;Solrød Strand
+21;2690;Karlslunde
+22;2700;Brønshøj
+23;2720;Vanløse
+24;2730;Herlev
+25;2740;Skovlunde
+26;2750;Ballerup
+27;2760;Måløv
+28;2765;Smørum
+29;2770;Kastrup
+30;2791;Dragør
+31;2800;Kongens Lyngby
+32;2820;Gentofte
+33;2830;Virum
+34;2840;Holte
+35;2850;Nærum
+36;2860;Søborg
+37;2880;Bagsværd
+38;2900;Hellerup
+39;2920;Charlottenlund
+40;2930;Klampenborg
+41;2942;Skodsborg
+42;2950;Vedbæk
+43;2960;Rungsted Kyst
+44;2970;Hørsholm
+45;2980;Kokkedal
+46;2990;Nivå
+47;3000;Helsingør
+48;3050;Humlebæk
+49;3060;Espergærde
+50;3070;Snekkersten
+51;3080;Tikøb
+52;3100;Hornbæk
+53;3120;Dronningmølle
+54;3140;Ålsgårde
+55;3150;Hellebæk
+56;3200;Helsinge
+57;3210;Vejby
+58;3220;Tisvildeleje
+59;3230;Græsted
+60;3250;Gilleleje
+61;3300;Frederiksværk
+62;3310;Ølsted
+63;3320;Skævinge
+64;3330;Gørløse
+65;3360;Liseleje
+66;3370;Melby
+67;3390;Hundested
+68;3400;Hillerød
+69;3460;Birkerød
+70;3480;Fredensborg
+71;3490;Kvistgård
+72;3500;Værløse
+73;3520;Farum
+74;3540;Lynge
+75;3550;Slangerup
+76;3600;Frederikssund
+77;3630;Jægerspris
+78;3650;Ølstykke
+79;3660;Stenløse
+80;3670;Veksø Sjælland
+81;3700;Rønne
+82;3720;Aakirkeby
+83;3730;Nexø
+84;3740;Svaneke
+85;3751;Østermarie
+86;3760;Gudhjem
+87;3770;Allinge
+88;3782;Klemensker
+89;3790;Hasle
+90;4000;Roskilde
+91;4040;Jyllinge
+92;4050;Skibby
+93;4060;Kirke Såby
+94;4070;Kirke Hyllinge
+95;4100;Ringsted
+96;4130;Viby Sjælland
+97;4140;Borup
+98;4160;Herlufmagle
+99;4171;Glumsø
+100;4173;Fjenneslev
+101;4174;Jystrup
+102;4180;Sorø
+103;4190;Munke Bjergby
+104;4200;Slagelse
+105;4220;Korsør
+106;4230;Skælskør
+107;4241;Vemmelev
+108;4242;Boeslunde
+109;4243;Rude
+110;4250;Fuglebjerg
+111;4261;Dalmose
+112;4262;Sandved
+113;4270;Høng
+114;4281;Gørlev
+115;4291;Ruds Vedby
+116;4293;Dianalund
+117;4295;Stenlille
+118;4296;Nyrup
+119;4300;Holbæk
+120;4320;Lejre
+121;4330;Hvalsø
+122;4340;Tølløse
+123;4350;Ugerløse
+124;4360;Kirke Eskilstrup
+125;4370;Store Merløse
+126;4390;Vipperød
+127;4400;Kalundborg
+128;4420;Regstrup
+129;4440;Mørkøv
+130;4450;Jyderup
+131;4460;Snertinge
+132;4470;Svebølle
+133;4480;Store Fuglede
+134;4490;Jerslev
+135;4500;Nykøbing Sj
+136;4520;Svinninge
+137;4532;Gislinge
+138;4534;Hørve
+139;4540;Fårevejle
+140;4550;Asnæs
+141;4560;Vig
+142;4571;Grevinge
+143;4572;Nørre Asmindrup
+144;4573;Højby
+145;4581;Rørvig
+146;4583;Sjællands Odde
+147;4591;Føllenslev
+148;4592;Sejerø
+149;4593;Eskebjerg
+150;4600;Køge
+151;4621;Gadstrup
+152;4622;Havdrup
+153;4623;Lille Skensved
+154;4632;Bjæverskov
+155;4640;Fakse
+156;4652;Hårlev
+157;4653;Karise
+158;4654;Fakse Ladeplads
+159;4660;Store Heddinge
+160;4671;Strøby
+161;4672;Klippinge
+162;4673;Rødvig Stevns
+163;4681;Herfølge
+164;4682;Tureby
+165;4683;Rønnede
+166;4684;Holme-Olstrup
+167;4690;Haslev
+168;4700;Næstved
+169;4720;Præstø
+170;4733;Tappernøje
+171;4735;Mern
+172;4736;Karrebæksminde
+173;4750;Lundby
+174;4760;Vordingborg
+175;4771;Kalvehave
+176;4772;Langebæk
+177;4773;Stensved
+178;4780;Stege
+179;4791;Borre
+180;4792;Askeby
+181;4793;Bogø By
+182;4800;Nykøbing F
+183;4840;Nørre Alslev
+184;4850;Stubbekøbing
+185;4862;Guldborg
+186;4863;Eskilstrup
+187;4871;Horbelev
+188;4872;Idestrup
+189;4873;Væggerløse
+190;4874;Gedser
+191;4880;Nysted
+192;4891;Toreby L
+193;4892;Kettinge
+194;4894;Øster Ulslev
+195;4895;Errindlev
+196;4900;Nakskov
+197;4912;Harpelunde
+198;4913;Horslunde
+199;4920;Søllested
+200;4930;Maribo
+201;4941;Bandholm
+202;4943;Torrig L
+203;4944;Fejø
+204;4951;Nørreballe
+205;4952;Stokkemarke
+206;4953;Vesterborg
+207;4960;Holeby
+208;4970;Rødby
+209;4983;Dannemare
+210;4990;Sakskøbing
+211;5000;Odense C
+212;5200;Odense V
+213;5210;Odense NV
+214;5220;Odense SØ
+215;5230;Odense M
+216;5240;Odense NØ
+217;5250;Odense SV
+218;5260;Odense S
+219;5270;Odense N
+220;5290;Marslev
+221;5300;Kerteminde
+222;5330;Munkebo
+223;5350;Rynkeby
+224;5370;Mesinge
+225;5380;Dalby
+226;5390;Martofte
+227;5400;Bogense
+228;5450;Otterup
+229;5462;Morud
+230;5463;Harndrup
+231;5464;Brenderup
+232;5466;Asperup
+233;5471;Søndersø
+234;5474;Veflinge
+235;5485;Skamby
+236;5491;Blommenslyst
+237;5492;Vissenbjerg
+238;5500;Middelfart
+239;5540;Ullerslev
+240;5550;Langeskov
+241;5560;Aarup
+242;5580;Nørre Aaby
+243;5591;Gelsted
+244;5592;Ejby
+245;5600;Faaborg
+246;5610;Assens
+247;5620;Glamsbjerg
+248;5631;Ebberup
+249;5642;Millinge
+250;5672;Broby
+251;5683;Haarby
+252;5690;Tommerup
+253;5700;Svendborg
+254;5750;Ringe
+255;5762;Vester Skerninge
+256;5771;Stenstrup
+257;5772;Kværndrup
+258;5792;Årslev
+259;5800;Nyborg
+260;5853;Ørbæk
+261;5854;Gislev
+262;5856;Ryslinge
+263;5863;Ferritslev Fyn
+264;5871;Frørup
+265;5874;Hesselager
+266;5881;Skårup Fyn
+267;5882;Vejstrup
+268;5883;Oure
+269;5884;Gudme
+270;5892;Gudbjerg
+271;5900;Rudkøbing
+272;5932;Humble
+273;5935;Bagenkop
+274;5953;Tranekær
+275;5960;Marstal
+276;5970;Ærøskøbing
+277;5985;Søby Ærø
+278;6000;Kolding
+279;6040;Egtved
+280;6051;Almind
+281;6052;Viuf
+282;6064;Jordrup
+283;6070;Christiansfeld
+284;6091;Bjert
+285;6092;Sønder Stenderup
+286;6093;Sjølund
+287;6094;Hejls
+288;6100;Haderslev
+289;6200;Aabenraa
+290;6230;Rødekro
+291;6240;Løgumkloster
+292;6261;Bredebro
+293;6270;Tønder
+294;6280;Højer
+295;6300;Gråsten
+296;6310;Broager
+297;6320;Egernsund
+298;6330;Padborg
+299;6340;Kruså
+300;6360;Tinglev
+301;6372;Bylderup-Bov
+302;6392;Bolderslev
+303;6400;Sønderborg
+304;6430;Nordborg
+305;6440;Augustenborg
+306;6470;Sydals
+307;6500;Vojens
+308;6510;Gram
+309;6520;Toftlund
+310;6535;Branderup J
+311;6541;Bevtoft
+312;6560;Sommersted
+313;6580;Vamdrup
+314;6600;Vejen
+315;6621;Gesten
+316;6622;Bække
+317;6623;Vorbasse
+318;6630;Rødding
+319;6640;Lunderskov
+320;6650;Brørup
+321;6660;Lintrup
+322;6670;Holsted
+323;6682;Hovborg
+324;6683;Føvling
+325;6690;Gørding
+326;6700;Esbjerg
+327;6701;Esbjerg
+328;6705;Esbjerg Ø
+329;6710;Esbjerg V
+330;6715;Esbjerg N
+331;6720;Fanø
+332;6731;Tjæreborg
+333;6740;Bramming
+334;6752;Glejbjerg
+335;6760;Ribe
+336;6771;Gredstedbro
+337;6780;Skærbæk
+338;6792;Rømø
+339;6800;Varde
+340;6818;Årre
+341;6823;Ansager
+342;6830;Nørre Nebel
+343;6840;Oksbøl
+344;6851;Janderup
+345;6852;Billum
+346;6853;Vejers Strand
+347;6854;Henne
+348;6855;Outrup
+349;6857;Blåvand
+350;6862;Tistrup
+351;6870;Ølgod
+352;6880;Tarm
+353;6893;Hemmet
+354;6900;Skjern
+355;6920;Videbæk
+356;6933;Kibæk
+357;6940;Lem St
+358;6950;Ringkøbing
+359;6960;Hvide Sande
+360;6971;Spjald
+361;6973;Ørnhøj
+362;6980;Tim
+363;6990;Ulfborg
+364;7000;Fredericia
+365;7080;Børkop
+366;7100;Vejle
+367;7120;Vejle Øst
+368;7130;Juelsminde
+369;7140;Stouby
+370;7150;Barrit
+371;7160;Tørring
+372;7171;Uldum
+373;7173;Vonge
+374;7182;Bredsten
+375;7183;Randbøl
+376;7184;Vandel
+377;7190;Billund
+378;7200;Grindsted
+379;7250;Hejnsvig
+380;7260;Sønder Omme
+381;7270;Stakroge
+382;7280;Sønder Felding
+383;7300;Jelling
+384;7321;Gadbjerg
+385;7323;Give
+386;7330;Brande
+387;7361;Ejstrupholm
+388;7362;Hampen
+389;7400;Herning
+390;7430;Ikast
+391;7441;Bording
+392;7442;Engesvang
+393;7451;Sunds
+394;7470;Karup J
+395;7480;Vildbjerg
+396;7490;Aulum
+397;7500;Holstebro
+398;7540;Haderup
+399;7550;Sørvad
+400;7560;Hjerm
+401;7570;Vemb
+402;7600;Struer
+403;7620;Lemvig
+404;7650;Bøvlingbjerg
+405;7660;Bækmarksbro
+406;7673;Harboøre
+407;7680;Thyborøn
+408;7700;Thisted
+409;7730;Hanstholm
+410;7741;Frøstrup
+411;7742;Vesløs
+412;7752;Snedsted
+413;7755;Bedsted Thy
+414;7760;Hurup Thy
+415;7770;Vestervig
+416;7790;Thyholm
+417;7800;Skive
+418;7830;Vinderup
+419;7840;Højslev
+420;7850;Stoholm, Jylland
+421;7860;Spøttrup
+422;7870;Roslev
+423;7884;Fur
+424;7900;Nykøbing M
+425;7950;Erslev
+426;7960;Karby
+427;7970;Redsted M
+428;7980;Vils
+429;7990;Øster Assels
+430;8000;Århus C
+431;8200;Århus N
+432;8210;Århus V
+433;8220;Brabrand
+434;8230;Åbyhøj
+435;8240;Risskov
+436;8250;Egå
+437;8260;Viby J
+438;8270;Højbjerg
+439;8300;Odder
+440;8305;Samsø
+441;8310;Tranbjerg J
+442;8320;Mårslet
+443;8330;Beder
+444;8340;Malling
+445;8350;Hundslund
+446;8355;Solbjerg
+447;8361;Hasselager
+448;8362;Hørning
+449;8370;Hadsten
+450;8380;Trige
+451;8381;Tilst
+452;8382;Hinnerup
+453;8400;Ebeltoft
+454;8410;Rønde
+455;8420;Knebel
+456;8444;Balle
+457;8450;Hammel
+458;8462;Harlev J
+459;8464;Galten
+460;8471;Sabro
+461;8472;Sporup
+462;8500;Grenaa
+463;8520;Lystrup
+464;8530;Hjortshøj
+465;8541;Skødstrup
+466;8543;Hornslet
+467;8544;Mørke
+468;8550;Ryomgård
+469;8560;Kolind
+470;8570;Trustrup
+471;8581;Nimtofte
+472;8585;Glesborg
+473;8586;Ørum Djurs
+474;8592;Anholt
+475;8600;Silkeborg
+476;8620;Kjellerup
+477;8632;Lemming
+478;8641;Sorring
+479;8643;Ans by
+480;8653;Them
+481;8654;Bryrup
+482;8660;Skanderborg
+483;8670;Låsby
+484;8680;Ry
+485;8700;Horsens
+486;8721;Daugård
+487;8722;Hedensted
+488;8723;Løsning
+489;8732;Hovedgård
+490;8740;Brædstrup
+491;8751;Gedved
+492;8752;Østbirk
+493;8762;Flemming
+494;8763;Rask Mølle
+495;8765; Klovborg
+496;8766;Nørre Snede
+497;8781;Stenderup
+498;8783;Hornsyld
+499;8800;Viborg
+500;8830;Tjele
+501;8831;Løgstrup
+502;8832;Skals
+503;8840;Rødkærsbro
+504;8850;Bjerringbro
+505;8860;Ulstrup
+506;8870;Langå
+507;8881;Thorsø
+508;8882;Fårvang
+509;8883;Gjern
+510;8900;Randers
+511;8950;Ørsted
+512;8961;Allingåbro
+513;8963;Auning
+514;8970;Havndal
+515;8981;Spenstrup
+516;8983;Gjerlev J
+517;8990;Fårup
+518;9000;Aalborg
+519;9200;Aalborg SV
+520;9210;Aalborg SØ
+521;9220;Aalborg Øst
+522;9230;Svenstrup J
+523;9240;Nibe
+524;9260;Gistrup
+525;9270;Klarup
+526;9280;Storvorde
+527;9293;Kongerslev
+528;9300;Sæby
+529;9310;Vodskov
+530;9320;Hjallerup
+531;9330;Dronninglund
+532;9340;Asaa
+533;9352;Dybvad
+534;9362;Gandrup
+535;9370;Hals
+536;9380;Vestbjerg
+537;9381;Sulsted
+538;9382;Tylstrup
+539;9400;Nørresundby
+540;9430;Vadum
+541;9440;Aabybro
+542;9460;Brovst
+543;9480;Løkken
+544;9490;Pandrup
+545;9492;Blokhus
+546;9493;Saltum
+547;9500;Hobro
+548;9510;Arden
+549;9520;Skørping
+550;9530;Støvring
+551;9541;Suldrup
+552;9550;Mariager
+553;9560;Hadsund
+554;9574;Bælum
+555;9575;Terndrup
+556;9600;Aars
+557;9610;Nørager
+558;9620;Aalestrup
+559;9631;Gedsted
+560;9632;Møldrup
+561;9640;Farsø
+562;9670;Løgstør
+563;9681;Ranum
+564;9690;Fjerritslev
+565;9700;Brønderslev
+566;9740;Jerslev J
+567;9750;Øster Vrå
+568;9760;Vrå
+569;9800;Hjørring
+570;9830;Tårs
+571;9850;Hirtshals
+572;9870;Sindal
+573;9881;Bindslev
+574;9900;Frederikshavn
+575;9940;Læsø
+576;9970;Strandby
+577;9981;Jerup
+578;9982;Ålbæk
