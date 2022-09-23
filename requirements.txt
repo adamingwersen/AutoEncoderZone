@@ -60,7 +60,7 @@ plaidml==0.6.4
 plaidml-keras==0.6.4
 prometheus-client==0.7.1
 prompt-toolkit==2.0.10
-protobuf==3.11.2
+protobuf==3.18.3
 ptyprocess==0.6.0
 pycparser==2.19
 Pygments==2.5.2
